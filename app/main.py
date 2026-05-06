@@ -1,0 +1,1 @@
+print("society management system")
